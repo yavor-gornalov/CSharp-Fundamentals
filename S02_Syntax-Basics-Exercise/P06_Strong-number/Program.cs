@@ -11,11 +11,11 @@
 
         if (int.Parse(numberStr) == result)
         {
-            Console.WriteLine("Yes");
+            Console.WriteLine("yes");
         }
         else
         {
-            Console.WriteLine("No");
+            Console.WriteLine("no");
         }
 
         static int factorial(int x)
