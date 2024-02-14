@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_Data-Type-Finder", "P01_Data-Type-Finder\P01_Data-Type-Finder.csproj", "{493F20C4-CB82-4219-8DD9-FA8A736C5CB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_Data-Type-Finder", "P01_Data-Type-Finder\P01_Data-Type-Finder.csproj", "{493F20C4-CB82-4219-8DD9-FA8A736C5CB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_From-Left-to-The-Right", "P02_From-Left-to-The-Right\P02_From-Left-to-The-Right.csproj", "{55637927-0754-4395-938B-DCD6663B55F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02_From-Left-to-The-Right", "P02_From-Left-to-The-Right\P02_From-Left-to-The-Right.csproj", "{55637927-0754-4395-938B-DCD6663B55F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_Floating-Equality", "P03_Floating-Equality\P03_Floating-Equality.csproj", "{3B636D7F-8116-4423-8DDC-39F2A4EBE326}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_Floating-Equality", "P03_Floating-Equality\P03_Floating-Equality.csproj", "{3B636D7F-8116-4423-8DDC-39F2A4EBE326}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_Refactoring-Prime-Checker", "P04_Refactoring-Prime-Checker\P04_Refactoring-Prime-Checker.csproj", "{0970320A-4CC3-451F-91CA-C955F92871D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04_Refactoring-Prime-Checker", "P04_Refactoring-Prime-Checker\P04_Refactoring-Prime-Checker.csproj", "{0970320A-4CC3-451F-91CA-C955F92871D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_Decrypting-Message", "P05_Decrypting-Message\P05_Decrypting-Message.csproj", "{3F8C5F28-A98B-418C-8C3E-66C6E73D441F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05_Decrypting-Message", "P05_Decrypting-Message\P05_Decrypting-Message.csproj", "{3F8C5F28-A98B-418C-8C3E-66C6E73D441F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_Balanced-Brackets", "P06_Balanced-Brackets\P06_Balanced-Brackets.csproj", "{0CB473C0-2E63-49D0-B52B-C98B547D493E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{3F8C5F28-A98B-418C-8C3E-66C6E73D441F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F8C5F28-A98B-418C-8C3E-66C6E73D441F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F8C5F28-A98B-418C-8C3E-66C6E73D441F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB473C0-2E63-49D0-B52B-C98B547D493E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB473C0-2E63-49D0-B52B-C98B547D493E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB473C0-2E63-49D0-B52B-C98B547D493E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB473C0-2E63-49D0-B52B-C98B547D493E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
