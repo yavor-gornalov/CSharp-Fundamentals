@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08_Factorial-Division", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_Palindrome-Integers", "P09_Palindrome-Integers\P09_Palindrome-Integers.csproj", "{3B279778-3B52-4862-BA53-1DA0F65C6A04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10_Top-Number", "P10_Top-Number\P10_Top-Number.csproj", "{56AB6EC9-30BD-4BBA-8C90-B4EC3CB03FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11_Array-Manipulator", "P11_Array-Manipulator\P11_Array-Manipulator.csproj", "{885A04F9-8508-47B9-B3BE-0603BE126A20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{3B279778-3B52-4862-BA53-1DA0F65C6A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B279778-3B52-4862-BA53-1DA0F65C6A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B279778-3B52-4862-BA53-1DA0F65C6A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AB6EC9-30BD-4BBA-8C90-B4EC3CB03FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AB6EC9-30BD-4BBA-8C90-B4EC3CB03FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AB6EC9-30BD-4BBA-8C90-B4EC3CB03FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AB6EC9-30BD-4BBA-8C90-B4EC3CB03FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885A04F9-8508-47B9-B3BE-0603BE126A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885A04F9-8508-47B9-B3BE-0603BE126A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885A04F9-8508-47B9-B3BE-0603BE126A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885A04F9-8508-47B9-B3BE-0603BE126A20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
