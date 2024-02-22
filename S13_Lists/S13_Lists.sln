@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_Sum-Adjacent-Equal-Numbers", "P01_Sum-Adjacent-Equal-Numbers\P01_Sum-Adjacent-Equal-Numbers.csproj", "{893073E2-09DB-46A8-AE8A-AC9E5C337703}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_Gauss-Trick", "P02_Gauss-Trick\P02_Gauss-Trick.csproj", "{43AC3C0D-8CE4-404F-A6C3-152862C01E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{893073E2-09DB-46A8-AE8A-AC9E5C337703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893073E2-09DB-46A8-AE8A-AC9E5C337703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893073E2-09DB-46A8-AE8A-AC9E5C337703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893073E2-09DB-46A8-AE8A-AC9E5C337703}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43AC3C0D-8CE4-404F-A6C3-152862C01E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43AC3C0D-8CE4-404F-A6C3-152862C01E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43AC3C0D-8CE4-404F-A6C3-152862C01E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43AC3C0D-8CE4-404F-A6C3-152862C01E23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01448612-D73E-4D56-AC78-D00BF6FC88B5}
+	EndGlobalSection
+EndGlobal
