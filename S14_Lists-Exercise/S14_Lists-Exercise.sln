@@ -17,6 +17,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_Cards-Game", "P06_Cards
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_Append-Arrays", "P07_Append-Arrays\P07_Append-Arrays.csproj", "{90B64187-B8E9-4C49-A461-3AE920757542}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P08_Anonymous-Threat", "P08_Anonymous-Threat\P08_Anonymous-Threat.csproj", "{F4F9D72D-41F1-48B8-9C48-67741FC003C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P09_Pokemon-Dont-Go", "P09_Pokemon-Dont-Go\P09_Pokemon-Dont-Go.csproj", "{DD62A40A-9888-45CE-BF1E-95F0A291FAB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10_SoftUni-Course-Planning", "P10_SoftUni-Course-Planning\P10_SoftUni-Course-Planning.csproj", "{A806B3E6-A8F1-4126-BA9C-6E26B0B9D811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +57,18 @@ Global
 		{90B64187-B8E9-4C49-A461-3AE920757542}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90B64187-B8E9-4C49-A461-3AE920757542}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90B64187-B8E9-4C49-A461-3AE920757542}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F9D72D-41F1-48B8-9C48-67741FC003C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F9D72D-41F1-48B8-9C48-67741FC003C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F9D72D-41F1-48B8-9C48-67741FC003C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F9D72D-41F1-48B8-9C48-67741FC003C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD62A40A-9888-45CE-BF1E-95F0A291FAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD62A40A-9888-45CE-BF1E-95F0A291FAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD62A40A-9888-45CE-BF1E-95F0A291FAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD62A40A-9888-45CE-BF1E-95F0A291FAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A806B3E6-A8F1-4126-BA9C-6E26B0B9D811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A806B3E6-A8F1-4126-BA9C-6E26B0B9D811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A806B3E6-A8F1-4126-BA9C-6E26B0B9D811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A806B3E6-A8F1-4126-BA9C-6E26B0B9D811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
