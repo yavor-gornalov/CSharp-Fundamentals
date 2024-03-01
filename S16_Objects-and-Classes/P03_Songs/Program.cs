@@ -44,7 +44,7 @@
 
     public class PlayList
     {
-        public List<Song> Songs= new List<Song>();
+        public List<Song> Songs = new List<Song>();
 
         public void AddSong(Song song)
         {
