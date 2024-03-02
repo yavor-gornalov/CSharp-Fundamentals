@@ -13,9 +13,7 @@
         PrintTeamsInfo(teams);
     }
 
-
-
-    private static void TeamsConstructor(List<Team> teams,List<string> users , int numberOfTeams)
+    private static void TeamsConstructor(List<Team> teams, List<string> users, int numberOfTeams)
     {
         for (int i = 0; i < numberOfTeams; i++)
         {
@@ -80,12 +78,18 @@
 
     private static void PrintTeamsInfo(List<Team> teams)
     {
-        foreach (Team team in teams.Where(x => x.Users.Count > 0).OrderByDescending(x => x.Users.Count))
+        foreach (Team team in teams
+            .Where(x => x.Users.Count > 0)
+            .OrderByDescending(x => x.Users.Count)
+            .ThenBy(x => x.TeamName))
         {
             Console.WriteLine(team.ToString());
         }
+
         Console.WriteLine("Teams to disband:");
-        foreach (Team team in teams.Where(x => x.Users.Count == 0).OrderBy(x => x.TeamName))
+        foreach (Team team in teams
+            .Where(x => x.Users.Count == 0)
+            .OrderBy(x => x.TeamName))
         {
             Console.WriteLine(team.ToString());
         }
